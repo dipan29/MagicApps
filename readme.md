@@ -20,7 +20,7 @@ The functionalities of the app can be summarised as:
 2. If the user clicks on the notification the app will be launched.
 3. In the main screen there will be provision of a Google map.
 4. The names of primary air pollutants are mentioned (For example PM2.5,N2O etc). The user can select the pollutnt(s) the concentration of which he/she wants to find out. 
-5. If the user clicks on any of them the app will show the concentration of that particular pollutant(in ppm) in his/her current neighbourhood or any other locality one choses in the google map within a range of 300m. This will be shown in the lower half of the screen.This is done with the help of AQUICN.
+5. If the user clicks on any of them the app will show the concentration of that particular pollutant(in ppm) in his/her current neighbourhood or any other locality one choses in the google map within a range of 300m. This will be shown in the lower half of the screen. This is done with the help of AQUICN.
 6. We will also provide a notification updated every three hours that can alert the user about the current conditions and warn them about further degradation of air quality.
 
 ----------------------------------------
@@ -33,4 +33,4 @@ Team Members :
 
 ----------------------------------------
 
-For further details, Please Contact - +91 91630 34929
+For any further details, Please Contact - +91 91630 34929

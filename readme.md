@@ -1,6 +1,6 @@
 IEM HACKATHON Repository READ ME
 
-***Due to a forced push the file created at 3.20 AM Was deleted this is just a copy of the same
+### Due to a forced push the file created at 3.20 AM Was deleted, this is just a copy of the same
 
 --------------------------------------
 -------------ABSTRACT-----------------

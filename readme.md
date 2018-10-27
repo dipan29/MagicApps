@@ -1,6 +1,6 @@
 IEM HACKATHON Repository READ ME
 
-### Due to a forced push the file created at 3.20 AM Was deleted, this is just a copy of the same
+### Due to a forced push, the file created at 3.20 AM Was deleted, this is just a copy of the same
 
 --------------------------------------
 -------------ABSTRACT-----------------
@@ -29,7 +29,7 @@ Team Members :
 1. Samyabrata Das (AEIE 3rd Year, Heritage Institute of Technology)
 2. Dipan Roy (ECE 2nd Year, Kalyani Government Engineering College)
 3. Meghna Misra (ECE 3rd Year, Heritage Institute of Technology)
-4. Suranjan Daw (ECE 2nd Year, Heritage Institute of Technology)
+4. Suranjan Daw (CSE 2nd Year, Heritage Institute of Technology)
 
 ----------------------------------------
 

@@ -1,6 +1,7 @@
 IEM HACKATHON Repository READ ME
 
 ### Due to a forced push, the file created at 3.20 AM Was deleted, this is just a copy of the same
+The working Documentation Can be found in Documentation.md and the Apk is Inside the APK Folder
 
 --------------------------------------
 -------------ABSTRACT-----------------

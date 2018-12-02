@@ -1,6 +1,6 @@
 IEM HACKATHON Repository READ ME
 
-##UPDATE - After discussing with Prof. Avijit Bose (IEM)
+### UPDATE - After discussing with Prof. Avijit Bose (IEM)
 There was one image file in JPEG that caused the app to crash so I have updated that with PNG and just provided the debug-version in the APP Folder. In case the Release APK crashes, please try with the DEBUG APK. NO LINES OR CODE WAS MODIFIED , ONLY THE IMAGE ASSET WAS CHANGED.
 
 ### Due to a forced push, the file created at 3.20 AM Was deleted, this is just a copy of the same
